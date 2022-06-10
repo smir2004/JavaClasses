@@ -16,6 +16,7 @@ public class ScnArryReverse {
 			
 	      for (int i1= array.length-1; i1>= 0 ; i1--){
 	    System.out.print(array[i1]+" ");
+	    scan.close();
 	}
 	      }
 	    }

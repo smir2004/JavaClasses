@@ -31,6 +31,7 @@ public class Code2 {
 			capital="Ottawa";
 		}
 	System.out.println("The capital of "+country+" is "+capital);
+	scan.close();
 		
 	    }
 	}

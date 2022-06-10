@@ -14,6 +14,7 @@ public class ScnLpDoubletheEntry {
 		    }
 		    for (int x=0; x<end*2; x++){
 		      System.out.print(x+ " ");
+		      input.close();
 		    }
 		  }
 

@@ -34,6 +34,7 @@ public class Code1 {
 			sum1+=numbers[x];
 		}
 		System.out.println("Sum of "+s+"numbers are= "+sum);
+		scan.close();
 	}
 }
 			  
