@@ -11,6 +11,7 @@ public class StrTask3 {
 			//System.out.print(new StringBuilder(s).reverse()+" ");
 		//}
 		System.out.println(new StringBuilder(str).reverse());
+		
 	}
 
 }

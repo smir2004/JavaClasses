@@ -1,9 +1,12 @@
 package com.syntax.review06;
 
 public class Student {
-	String name, lastName, address;
+	String name;
+	String lastName;
+	String address;
 	int studentId, age;
 	char grade;
+
 	void study() {
 		System.out.println("Student "+name+"  is studying");
 	}
@@ -40,5 +43,9 @@ return  name.toUpperCase()+" "+lastName.toUpperCase();
 }
 	void takeSubject(String subject) {
 		System.out.println(name+" studies java");
+	}
+	 void createEmail() {
+		// TODO Auto-generated method stub
+		
 	}
 }
